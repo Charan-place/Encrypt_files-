@@ -19,10 +19,10 @@ This script encrypts all files within a specified directory using AES-256 encryp
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Charan-place/YourRepoName.git
+   git clone https://github.com/Charan-place/Encrypt_files-
 2. **Run the Script**:
 
--  **Open the cloned folder**, then double-click on the batch file (`YourBatchFileName.bat`).
+-  **Open the cloned folder**, then double-click on the batch file (`Encrypt.bat`).
 -  **Provide the directory path** you wish to encrypt when prompted.
 -  **Set a password** for the encryption.
 
