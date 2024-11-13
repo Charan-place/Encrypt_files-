@@ -42,7 +42,7 @@ Enter the directory path to encrypt: C:\Users\YourUsername\Documents\SensitiveDa
 Enter a password for encryption: ********
 Encrypting: C:\Users\YourUsername\Documents\SensitiveData\File1.txt
 Encrypting: C:\Users\YourUsername\Documents\SensitiveData\File2.txt
-...
+```
 Encryption completed!
 
 
