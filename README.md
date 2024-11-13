@@ -44,6 +44,8 @@ Encrypting: C:\Users\YourUsername\Documents\SensitiveData\File1.txt
 Encrypting: C:\Users\YourUsername\Documents\SensitiveData\File2.txt
 ...
 Encryption completed!
+
+
 ## Security Notes
 
 - **Password Storage**: The password is not stored by the script; however, ensure you remember it, as it’s required for decryption.
