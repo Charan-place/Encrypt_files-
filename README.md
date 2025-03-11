@@ -56,9 +56,6 @@ Encryption completed!
 
 This script is provided "as-is" without warranty of any kind. Ensure you understand encryption basics before use, as data recovery will be challenging without the correct password.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contributions
 
